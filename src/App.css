@@ -135,6 +135,12 @@
   color: #BDBDBD;
   font-size: .9em;
 }
+.SearchBox{
+  
+  
+  position: centre;
+  color:#BDBDBD;
+}
 
 .FormField__Checkbox {
   position: relative;

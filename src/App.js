@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, NavLink } from 'react-router-dom';
+import Search from "react-search-box";
 import SignUpForm from './pages/SignUpForm';
 import SignInForm from './pages/SignInForm';
-import ImageUploader from 'react-images-upload';
+
 import './step0003.png'
 
 import './App.css';
@@ -18,10 +19,7 @@ class App extends Component {
         <div className="App">
           <div className="App__Aside">
           
-         <div className="Photos">
          
-
-         </div>
          <div>
 
 
